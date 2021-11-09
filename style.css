@@ -9,62 +9,63 @@
 body{
     margin: 0;
     padding: 0;
-    font-family: 'Roboto', sans-serif;
+    Font-family: Baskerville, Baskerville Old Face, Garamond, Times New Roman, serif.;
     background-color: #fff;
     color: #7A7C80;
 
 }
 
 h2,.white{
-    color: #7648ce;
+    color: #ce8948;
 }
 
 a{
-    color: #7A7C80;
+    color: #000;
     text-decoration: none;
 }
 /* section 1 */
 .section-1{
-    padding-top: 40vh;
+    padding-top: 10vh;
     text-align: center;
 }
 
 .section-1 p{
-    font-size: 1.1rem;
+    font-size: 1rem;
     padding-bottom: 10px;
     margin:0;
 }
 
 .section-1 h2{
-    font-size: 1.7rem;
-    margin-bottom: 10px;
+    font-size: 1.6rem;
+    margin-bottom: 10x;
 }
 
 .section-1 a{
-    font-size: 1.5rem;
+    font-size: 1rem;
     padding: 10px;
 }
 /* section 2 */
 .section-2{
-    padding-top: 10vh;
+    padding-top: 0.7vh;
     width: 70%;
+    font-size: rem;
 }
 
 .section-2 h2{
-    font-size: 1.7rem;
+    font-size: 1.5rem;
     margin-bottom: 10px;
 }
 
 .section-2 p{
-    font-size: 1.1rem;
+    font-size: 1rem;
     padding-bottom: 10px;
     margin:0;
 }
 
 .section-2 a{
     display: block;
-    padding: 5px;
-    font-size: 1.2rem;
+    padding: 1px;
+    font-size: 1rem;
     padding-left: 0;
     width: 100px;
 }
