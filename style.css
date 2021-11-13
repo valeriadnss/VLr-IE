@@ -1,5 +1,4 @@
 /* global */
-@import url('https://fonts.googleapis.com/css?family=Roboto');
 
 .grid-2{
     display: grid;
@@ -9,9 +8,9 @@
 body{
     margin: 0;
     padding: 0;
-    Font-family: Baskerville, Baskerville Old Face, Garamond, Times New Roman, serif.;
+    Font-family: Baskerville, Baskerville Old Face, Garamond, Times New Roman, serif;
     background-color: #fff;
-    color: #7A7C80;
+    color: #000000;
 
 }
 
@@ -104,17 +103,4 @@ a{
     }
 }
 
-    © 2021 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
 
