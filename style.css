@@ -9,6 +9,8 @@ body{
     margin: 0;
     padding: 0;
     Font-family: Baskerville, Baskerville Old Face, Garamond, Times New Roman, serif;
+
+    Font-family: Baskerville, Baskerville Old Face, Garamond, Times New Roman, serif;
     background-color: #fff;
     color: #000000;
 
@@ -30,6 +32,7 @@ a{
 
 .section-1 p{
     font-size: 1rem;
+    font-size: 1.2rem;
     padding-bottom: 10px;
     margin:0;
 }
