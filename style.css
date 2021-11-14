@@ -11,7 +11,7 @@ body{
     Font-family: Baskerville, Baskerville Old Face, Garamond, Times New Roman, serif;
 
     Font-family: Baskerville, Baskerville Old Face, Garamond, Times New Roman, serif;
-    background-color: #fff;
+    background-color:#fffeee;
     color: #000000;
 
 }
@@ -89,6 +89,7 @@ a{
     position: relative;
     padding-left: 10px;
 }
+
 
 /* media queres */
 @media(max-width:780px){
